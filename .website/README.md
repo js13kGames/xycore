@@ -1,4 +1,8 @@
 ---
+genres:
+  - metroidvania
+  - action
+  - adventure
 post: https://web.archive.org/web/20250428060827/https://64mega.github.io/js13k-2019-recap.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
